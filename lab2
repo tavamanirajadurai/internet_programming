@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>IJSR</title>
+<style>
+.h1{
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	background-color: #0096FF;
+	text-align: center;
+}
+a:hover 
+  {
+    color: Blue;
+    border-bottom: 3px solid #38F5B1;
+  }
+  .topnav a {
+
+  	width: 130px;
+  	background-color: Black;
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 18px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.h2 input
+{
+	font-family: 'Open Sans', sans-serif;
+	padding: 10px;
+    width: 40%;
+    padding right: 12px 20px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.h2{
+  	text-shadow: 2px 2px;
+	-ms-transform: rotate(4deg);
+	transform: rotate(4deg);
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+</style>
+</head>
+<body>
+	<div class ="h1">
+	<img src="IJSR.jpg" align="left" height=90 width=90 1px>
+	<h1>International Journal of Science and Research(IJSR)</h1>
+	<h2>Since year 2012 | Open Access | Fully refereed | Peer Reviewed</h2>
+</div>
+<div class="topnav">
+    <a href="www.google.com">Home</a>
+    <a href="">Members</a>
+    <a href="">Current Issues</a>
+    <a href="">Archive</a>
+    <a href="">Instruction author</a>
+    <a href="">Authors Tools</a>
+    <a href="">Editorial Board</a>
+    <a href="">Conferences</a>
+    <a href="">Policies</a>
+  </div>
+  <div class = "h2"><br><br>
+  	<h1>Search Publications</h1>	
+ 	<input type="text" name="" ><br><br>
+  	<h3 style>Search</h3>
+
+  </div>
+
+
+
+</body>
+</html>
